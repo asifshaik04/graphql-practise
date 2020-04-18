@@ -1,0 +1,26 @@
+{
+  "name": "graphql-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifshaik04/graphql-practise.git"
+  },
+  "author": "Asif Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asifshaik04/graphql-practise/issues"
+  },
+  "homepage": "https://github.com/asifshaik04/graphql-practise#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "node-fetch": "^2.6.0",
+    "xml2js": "^0.4.23"
+  }
+}
